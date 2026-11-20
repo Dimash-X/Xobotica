@@ -40,18 +40,27 @@ I envision a platform where robotics enthusiasts, developers, and curious minds 
 
 **Xobotica — Where Everyone Can Help Robots Evolve.**
 
+---
 
 ## Robots
 
 A collection of robotic projects featured on the Xobotica platform.
 
-### 1. DOGX - AI-Powered Quadrupedal Robot
+### DOGX - Miniature Quadrupedal Robot with a Custom AI Brain
 
-A compact, 3D-printed four-legged robot designed to explore intelligent locomotion. The goal is to develop an AI-powered brain capable of learning how to walk, balance, and navigate different environments through reinforcement learning.
+DOGX is an upcoming personal robotics project focused on creating a highly compact, lightweight, four-legged robot with an entirely custom-developed AI brain.
 
-- **Type:** Quadrupedal Robot
-- **Degrees of Freedom:** 12 (3 per leg)
-- **Weight:** Approximately 1.8 kg
-- **AI Brain:** Reinforcement Learning (RL)
-- **Features:** 3D-printed design, servo-driven locomotion, autonomous movement, adaptive control, and sim-to-real transfer.
+The project is currently in its planning and development stage. My goal is to design and build the robot from the ground up, while independently developing and training its AI system rather than relying on ready-made solutions.
 
+I want to make this development process interactive. Through the Xobotica platform, visitors will be able to explore DOGX in a virtual 3D environment, experiment with its movement, test different approaches, and help me develop and improve its AI brain. Together, we can experiment with reinforcement learning to teach DOGX how to walk, maintain balance, adapt to different surfaces, and navigate its surroundings.
+
+**The ultimate goal is to turn DOGX into an intelligent, autonomous quadrupedal robot — with its own AI brain developed through experimentation and collaboration with the Xobotica community.**
+
+- **Type:** Miniature Quadrupedal Robot
+- **Status:** Planned / In Development
+- **Design:** Custom compact and lightweight construction
+- **Degrees of Freedom:** 12 (planned, 3 per leg)
+- **AI Brain:** Custom AI system developed from scratch
+- **Learning Approach:** Reinforcement Learning (RL)
+- **Main Goals:** Autonomous walking, dynamic balance, environmental adaptation, and intelligent navigation
+- **Community Involvement:** Interactive simulation, experimentation, and collaborative AI development
