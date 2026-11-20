@@ -34,13 +34,9 @@ I envision a platform where robotics enthusiasts, developers, and curious minds 
 
 **The ultimate goal is to connect human curiosity, collective experimentation, artificial intelligence, and real-world robotics.**
 
----
-
-*New robots, experiments, challenges, and simulation environments will be added as Xobotica evolves.*
-
-**Xobotica — Where Everyone Can Help Robots Evolve.**
-
----
+<hr>
+<br>
+<hr>
 
 ## Robots
 
