@@ -8,9 +8,15 @@ The core idea behind Xobotica is to give everyone the opportunity to interact wi
 **My goal is to turn robotics development into an open, interactive experience where anyone can contribute to making my robots smarter through virtual experimentation and AI training.**
 
 The platform also allows others to discover my robots, understand how they are designed and built, and see how they operate in the real world.
+<h1 align="center">XOBOTICA</h1>
+
+<h3 align="center">
+  Exploring Robotics Through Real-World Projects and 3D Simulation
+</h3>
+
 <p align="center">
   <a href="https://xobotica.pages.dev">
-    <strong>🌐 EXPLORE XOBOTICA →</strong>
+    <img src="https://img.shields.io/badge/🌐_EXPLORE_XOBOTICA-LIVE_PLATFORM-00bfa6?style=for-the-badge" />
   </a>
 </p>
 
