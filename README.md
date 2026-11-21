@@ -14,6 +14,14 @@ The platform also allows others to discover my robots, understand how they are d
   </a>
 </p>
 
+<p align="center">
+  <img
+    src="media/Xobotica_DOGX.gif"
+    alt="Xobotica DOGX 3D Simulation"
+    width="850"
+  />
+</p>
+
 ## About
 
 Every robot starts as an idea and becomes an engineering project through design, development, and experimentation.
